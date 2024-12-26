@@ -1,0 +1,7 @@
+{
+  "name": "Twitter-App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
